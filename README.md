@@ -1,10 +1,10 @@
 # Supply Chain Process Flow iPhone
 
-This project is a Supply Chain Process Flow designed specifically with an Apple design theme. It was created using Figma.
+This project is a Supply Chain Process Flow of an iPhone designed specifically with an Apple design theme. It was created using Figma.
 
 ## Overview
 
-This design visually represents the supply chain process while maintaining an Apple-like UI aesthetic. The goal is to make the flow easy to understand and seamlessly integrate with Apple's design principles.
+This design visually represents the supply chain process of an iPhone while maintaining an Apple-like UI aesthetic. The goal is to make the flow easy to understand and seamlessly integrate with Apple's design principles.
 
 ![processFlow_iPhone](processFlow_iPhone_r0984834.png)
 
